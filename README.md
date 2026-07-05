@@ -4,7 +4,7 @@
 
 <p><i>An Engineering Student Building the Future with AI.</i></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Products.;Learning+in+Public.;Bac[...]
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Products.;Learning+in+Public.;[...]
 <br><br>
 <b>🌐 LinkedIn</b>
 <br>
@@ -111,7 +111,6 @@ Status
 ```text
 COMPLETED
 ```
-
 A platform designed to connect blood donors and recipients more efficiently, making it easier for people to find help when it's needed.
 
 ---
@@ -130,6 +129,7 @@ SQL
 HTML
 
 CSS
+
 ```
 
 ## Backend
@@ -138,6 +138,7 @@ CSS
 FastAPI
 
 JWT Authentication
+
 ```
 
 ## Frontend
@@ -172,24 +173,28 @@ Postman
 Excel
 ```
 
+```
+
 ---
 
 # CURRENT CURIOSITY
 
+Currently exploring:
+
 ```text
-🔬 Multi-Agent AI Systems
+Multi-Agent AI Systems
 
-💾 Memory for AI Assistants
+Memory for AI Assistants
 
-☁️ Cloud Deployment
+Cloud Deployment
 
-🧠 Context Engineering
+Context Engineering
 
-🤝 Open Source Collaboration
+Open Source Collaboration
 
-🏗️ Scalable Backend Architecture
+Scalable Backend Architecture
 
-⚙️ Developer Productivity
+Developer Productivity
 ```
 
 ---
