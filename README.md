@@ -176,22 +176,20 @@ Excel
 
 # CURRENT CURIOSITY
 
-Currently exploring:
-
 ```text
-Multi-Agent AI Systems
+🔬 Multi-Agent AI Systems
 
-Memory for AI Assistants
+💾 Memory for AI Assistants
 
-Cloud Deployment
+☁️ Cloud Deployment
 
-Context Engineering
+🧠 Context Engineering
 
-Open Source Collaboration
+🤝 Open Source Collaboration
 
-Scalable Backend Architecture
+🏗️ Scalable Backend Architecture
 
-Developer Productivity
+⚙️ Developer Productivity
 ```
 
 ---
