@@ -19,8 +19,7 @@ I'm a **B.Tech Artificial Intelligence & Data Science** student at **VSB Enginee
 - 🔭 Currently building **production-grade multi-agent AI applications** using LangChain, LangGraph, and RAG pipelines
 - 🌱 Deepening my expertise in **agentic AI systems, context engineering, and scalable backend architecture**
 - 💼 Completed internships at **Labmentix (AI & ML)** and **Infosys Springboard** (virtual internship)
-- 🗣️ Building **voice-first, multilingual AI products** for accessibility in Hindi, Tamil, and Telugu
-- 📚 Preparing for **UPSC CSE** alongside my engineering degree — balancing technical depth with public-service ambition
+- 🗣️ Building **voice-first, multilingual AI products** for accessibility 
 - ✍️ I write and share what I learn about AI on LinkedIn
 
 ---
