@@ -14,7 +14,7 @@
 
 ### 🎯 About Me
 
-I'm a **B.Tech Artificial Intelligence & Data Science** student at **VSB Engineering College, Karur** (Batch 2024–2028, CGPA **8.71**), passionate about building intelligent systems that solve real problems — especially for underserved communities in India.
+I'm a **B.Tech Artificial Intelligence & Data Science** student, passionate about building intelligent systems that solve real problems — especially for underserved communities in India.
 
 - 🔭 Currently building **production-grade multi-agent AI applications** using LangChain, LangGraph, and RAG pipelines
 - 🌱 Deepening my expertise in **agentic AI systems, context engineering, and scalable backend architecture**
